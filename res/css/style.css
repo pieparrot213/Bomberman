@@ -1,0 +1,13 @@
+.button {
+    -fx-font-family: Georgia;
+    -fx-background-radius: 20px;
+    -fx-background-color: #FFFF00;
+    -fx-font-size: 20;
+}
+
+.HBox {
+    -fx-border-width: 3px;
+    -fx-border-color:  #660000;
+    -fx-background-color:  #FFFFCC;
+} 
+
